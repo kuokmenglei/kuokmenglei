@@ -5,9 +5,9 @@
 
 ### 👨‍💻 Full-Stack Developer & Programming Mentor
 
-[![Website](https://img.shields.io/badge/Website-nijohn.dev-brightgreen?style=flat-square&logo=mozilla)](https://www.linkedin.com/in/kuokmeng-lei)
+[![Website]()](https://www.linkedin.com/in/kuokmeng-lei)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kuokmeng-lei/)
-[![Email](https://img.shields.io/badge/Email-nijohn0006%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kuokmenglei@gmail.com)
+[![Email]()](mailto:kuokmenglei@gmail.com)
 
 ### 🚀 My Journey
 
