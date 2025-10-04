@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Freelancer
-- 🌱 I’m currently learning springboard
+- 🌱 I was graduated at springboard and computer science bachelor
 
-### 👨‍💻 Full-Stack Developer & Programming Mentor
+### 👨‍💻 Full-Stack Developer & software engineer
 
 [![Website]()](https://www.linkedin.com/in/kuokmeng-lei)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kuokmeng-lei/)
